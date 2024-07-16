@@ -1,4 +1,4 @@
-#Visual Data Exploration: The Metropolitan Museum of Art NYC
+# Visual Data Exploration: The Metropolitan Museum of Art NYC
 
 ![Metropolitan Museum of Art](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Metropolitan_Museum_of_Art_%28The_Met%29_-_Central_Park%2C_NYC.jpg/2560px-Metropolitan_Museum_of_Art_%28The_Met%29_-_Central_Park%2C_NYC.jpg)
 
